@@ -1,0 +1,60 @@
+.modal-login {
+    background-color: #fefefe;
+    border: 1px solid #888;
+    width: 700px;
+    height: fit-content;
+    margin-left: 35%;
+    margin-right: 35%;
+
+     }
+
+     @media (max-width: 1024px) {
+    
+        .modal-login {
+        background-color: #fefefe;
+    
+        margin-left: 30%;
+        margin-right: 10%;
+        border: 1px solid #888;
+        width: 500px;
+        height: 400px;
+    
+         }
+    
+         }
+
+@media (max-width: 768px) {
+    
+    .modal-login {
+    background-color: #fefefe;
+
+    margin-left: 17%;
+    margin-right: 10%;
+    border: 1px solid #888;
+    width: 500px;
+    height: 400px;
+
+     }
+
+     }
+
+     @media (max-width: 468px) {
+    
+    .modal-login {
+    background-color: #fefefe;
+
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid #888;
+    width: 300px;
+    
+
+     }
+
+     }
+
+     .background{
+         height: 100%;
+         background-color: cornflowerblue;
+         background-size: 1000px;
+     }
